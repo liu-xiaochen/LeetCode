@@ -785,7 +785,7 @@
 [1478.Allocate-Mailboxes](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1478.Allocate-Mailboxes) (H)   
 [1977.Number-of-Ways-to-Separate-Numbers](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/1977.Number-of-Ways-to-Separate-Numbers) (H)     
 [2463.Minimum-Total-Distance-Traveled](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2463.Minimum-Total-Distance-Traveled) (M+)     
-[2472.Maximum-Number-of-Non-overlapping-Palindrome-Substrings](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2472.Maximum-Number-of-Non-overlapping-Palindrome-Substrings) (M+)    
+✅[2472.Maximum-Number-of-Non-overlapping-Palindrome-Substrings](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2472.Maximum-Number-of-Non-overlapping-Palindrome-Substrings) (M+)    
 [2478.Number-of-Beautiful-Partitions](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2478.Number-of-Beautiful-Partitions) (H-)      
 [2547.Minimum-Cost-to-Split-an-Array](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2547.Minimum-Cost-to-Split-an-Array) (M)    
 * ``区间型 II``   
