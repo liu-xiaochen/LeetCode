@@ -645,8 +645,8 @@
 [2046.Sort-Linked-List-Already-Sorted-Using-Absolute-Values](https://github.com/wisdompeak/LeetCode/tree/master/Linked_List/2046.Sort-Linked-List-Already-Sorted-Using-Absolute-Values) (H-)    
 
 #### [Dynamic Programming](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming)
-[264.Ugly-Number-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/264.Ugly-Number-II) (H-)   
-[313.Super-Ugly-Number](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/313.Super-Ugly-Number) (H-)  
+✅[264.Ugly-Number-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/264.Ugly-Number-II) (H-)   
+✅[313.Super-Ugly-Number](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/313.Super-Ugly-Number) (H-)  
 [091.Decode-Ways](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/091.Decode-Ways) (M)     
 [639.Decode-Ways-II](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/639.Decode-Ways-II) (H)    
 [634.Find-the-Derangement-of-An-Array](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/634.Find-the-Derangement-of-An-Array) (H)    
